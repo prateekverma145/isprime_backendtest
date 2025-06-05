@@ -9,3 +9,6 @@ This is a simple Node.js API that checks whether a given number is a prime.
 2. **Install dependencies**
 ```bash
 npm install
+```bash
+example: GET http://localhost:3000/isprime?number=7
+```
